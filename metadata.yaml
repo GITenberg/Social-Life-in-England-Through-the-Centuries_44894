@@ -1,0 +1,25 @@
+_repo: Social-Life-in-England-Through-the-Centuries_44894
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44894-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hall, H. R. Wilton
+    gutenberg_agent_id: '42967'
+    url: http://www.gutenberg.org/2009/agents/42967
+description: ''
+gutenberg_issued: '2014-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44894'
+  lccn: '20022714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'England -- Social life and customs'
+title: Social Life in England Through the Centuries
+url: http://www.gutenberg.org/ebooks/44894
